@@ -1,13 +1,13 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Entrevista a Myrna Rivera
-datePublished: '2016-02-06T15:18:21.219Z'
-dateModified: '2016-02-06T15:17:04.272Z'
+datePublished: '2016-02-06T15:21:23.644Z'
+dateModified: '2016-02-06T15:21:20.760Z'
 title: 'Myrna, una musa en Lavapiés'
 author: []
 sourcePath: _posts/2016-02-06-myrna-una-musa-en-lavapies.md
@@ -18,8 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: myrna-una-musa-en-lavapies/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b0f59e8-7a78-4e85-a0fd-63fe8300b58f.jpg)
