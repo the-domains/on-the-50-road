@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-06T17:15:34.138Z'
-dateModified: '2016-02-06T17:15:18.047Z'
+datePublished: '2016-02-06T17:44:12.832Z'
+dateModified: '2016-02-06T17:43:53.180Z'
 title: '¿Y A TI, QUÉ TE MUEVE?'
 author: []
+sourcePath: _posts/2016-02-06-y-a-ti-que-te-mueve.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-06-y-a-ti-que-te-mueve.md
-published: true
 url: y-a-ti-que-te-mueve/index.html
 _type: Article
 
