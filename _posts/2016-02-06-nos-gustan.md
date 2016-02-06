@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
@@ -16,8 +16,8 @@ keywords:
   - principals
   - kismet
 description: ELLAS SON MUJERES DE LAS QUE APRENDER
-datePublished: '2016-02-06T15:40:24.820Z'
-dateModified: '2016-02-06T15:40:04.751Z'
+datePublished: '2016-02-06T15:42:51.355Z'
+dateModified: '2016-02-06T15:42:37.733Z'
 author: []
 related:
   - score: 0.5299335718
@@ -29,14 +29,14 @@ related:
     thumbnail_width: 1000
 app_links: []
 title: NOS GUSTAN
+sourcePath: _posts/2016-02-06-nos-gustan.md
+published: true
 authors: []
 publisher:
   name: MAKERS
   domain: www.makers.com
   url: 'http://www.makers.com'
   favicon: 'http://www.makers.com/favicon.ico'
-sourcePath: _posts/2016-02-06-nos-gustan.md
-published: true
 url: nos-gustan/index.html
 _context: 'http://schema.org'
 _type: MediaObject
