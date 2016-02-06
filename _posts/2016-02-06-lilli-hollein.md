@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.freundevonfreunden.com'
-  name: Freunde von Freunden
-  favicon: 'http://www.freundevonfreunden.com/favicon.ico'
-  domain: www.freundevonfreunden.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.freundevonfreunden.com/interviews/lilli-hollein/#video'
+inLanguage: en
+starred: false
 keywords:
   - vienna
   - designers
@@ -18,17 +17,20 @@ keywords:
   - aestheticism
   - juxtaposition
 description: "Design isn't just surface and pure aestheticism, design also comes from within. With Vienna Design Week, founded by Lilli Hollein, special attention is given to several aspects simultaneously: at the festival she shows not only the finished products, but she also strives to make their development process transparent."
-inLanguage: en
+datePublished: '2016-02-06T15:18:07.678Z'
+dateModified: '2016-02-06T15:04:16.877Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.freundevonfreunden.com/interviews/lilli-hollein/#video'
 title: Lilli Hollein
-datePublished: '2016-02-06T15:03:48.842Z'
-dateModified: '2016-02-06T15:00:54.419Z'
 sourcePath: _posts/2016-02-06-lilli-hollein.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Freunde von Freunden
+  domain: www.freundevonfreunden.com
+  url: 'http://www.freundevonfreunden.com'
+  favicon: 'http://www.freundevonfreunden.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
