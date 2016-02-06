@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
@@ -16,8 +16,8 @@ keywords:
   - principals
   - kismet
 description: ELLAS SON MUJERES DE LAS QUE APRENDER
-datePublished: '2016-02-06T15:42:51.355Z'
-dateModified: '2016-02-06T15:42:37.733Z'
+datePublished: '2016-02-06T15:45:40.572Z'
+dateModified: '2016-02-06T15:45:35.733Z'
 author: []
 related:
   - score: 0.5299335718
