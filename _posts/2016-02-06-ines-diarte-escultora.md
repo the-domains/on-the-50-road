@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'On the 50 Road - Entrevista a Inés Diarte, escultora francesa que vive en Madrid'
-datePublished: '2016-02-06T15:20:57.096Z'
-dateModified: '2016-02-06T15:20:51.467Z'
+datePublished: '2016-02-06T16:34:34.668Z'
+dateModified: '2016-02-06T16:31:47.665Z'
 title: 'Ines Diarte, escultora'
 author: []
 sourcePath: _posts/2016-02-06-ines-diarte-escultora.md
